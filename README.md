@@ -4,6 +4,10 @@ This project aims to build a robust multi-class classification model that predic
 
 ---
 
+## Note
+
+"Due to confidentiality agreements, the original dataset used in this project cannot be shared. However, the code and structure are fully functional with any dataset of similar format.
+
 ## 📦 Dataset Overview
 
 The dataset consists of product metadata extracted from an e-commerce platform. Each row in the dataset represents a unique product listing. The primary objective is to predict the `bottom_category_text` for each product using various product features.
