@@ -71,15 +71,11 @@ The best-performing model was selected based on validation performance. Addition
 ```
 product-category-prediction/
 │
-├── data/
-│   ├── raw/              # Anonymized source data
-│   └── processed/        # Cleaned and transformed datasets
+├── dummy_data/
+│   ├── train/              # Anonymized train source data
+│   └── test/        # Anonymized train source data
 │
-├── notebooks/
-│   └── category_prediction_final.ipynb  # Main notebook
-│
-├── models/
-│   └── model.pkl         # (Optional) Serialized trained model
+├── category_prediction_final.ipynb  # Main notebook
 │
 ├── README.md
 └── requirements.txt
