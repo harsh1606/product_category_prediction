@@ -72,8 +72,8 @@ The best-performing model was selected based on validation performance. Addition
 product-category-prediction/
 │
 ├── dummy_data/
-│   ├── train/              # Anonymized train source data
-│   └── test/        # Anonymized train source data
+│   ├── train/              # Anonymized train data
+│   └── test/        # Anonymized test data
 │
 ├── category_prediction_final.ipynb  # Main notebook
 │
